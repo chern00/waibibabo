@@ -1,0 +1,5 @@
+# 配置文件
+api_key: "YOUR_API_KEY_HERE"
+base_url: "https://api.openai.com/v1" # 支持 OpenAI 格式的接口 (如 DeepSeek, GPT, DashScope)
+model_name: "gpt-4o-mini"
+trigger_time: "17:50"
